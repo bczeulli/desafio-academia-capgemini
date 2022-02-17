@@ -5,4 +5,4 @@
 
  Todas as questões foram feitas para se digitar no terminal o numero ou string escolhida.
 
- Sobre a questão 3. Não consegui elaborar o algoritimo para que comparace mais de um caractere da String.
+ Sobre a questão 3. Não consegui elaborar o algoritimo que compare mais de um caractere da String.
